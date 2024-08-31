@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **surajphunde1111@gmail.com**
 
-- 📄 Know about my experiences [1+ year as a java devloper.](1+ year as a java devloper.)
+- 📄 Know about my experiences 1+ year as a java devloper.
 
 - ⚡ Fun fact **I am funny .**
 
