@@ -1,6 +1,6 @@
 ![logo](https://github.com/surajphunde/surajphunde/blob/main/surajp.png)
 <h1 align="center">Hi 👋, I'm Suraj Phunde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am passionate as JAVA DEVLOPER from India</h3>
 
 <img align="right" alt="coding" width'400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&s">
 
