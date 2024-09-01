@@ -1,8 +1,7 @@
 ![logo](https://github.com/surajphunde/surajphunde/blob/main/surajp.png)
 <h1 align="center">Hi 👋, I'm Suraj Phunde</h1>
 <h3 align="center">I am passionate as JAVA DEVLOPER from India</h3>
- <img align="right" src="https://github.com/surajphunde/surajphunde/blob/main/gif1.gif"
-     width= 100, height=300>
+ <img align="right" alt="coding" width="400"  src="https://github.com/surajphunde/surajphunde/blob/main/gif1.gif">
 
 
 <p align="left"> <a href="https://twitter.com/@surajphunde49543" target="blank"><img src="https://img.shields.io/twitter/follow/@surajphunde49543?logo=twitter&style=for-the-badge" alt="@surajphunde49543" /></a> </p>
