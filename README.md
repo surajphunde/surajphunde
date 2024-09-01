@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Phunde</h1>
 <h3 align="center">I am passionate as JAVA DEVLOPER from India</h3>
 
-<img align="right" alt="coding" width'400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0ysv8eiDc9kkwb0W3dPEq3jcdkI7cK0jPg&s">
+<img align="right" width =400 height=400 src="https://github.com/surajphunde/surajphunde/blob/main/gif1.gif">
+
 
 <p align="left"> <a href="https://twitter.com/@surajphunde49543" target="blank"><img src="https://img.shields.io/twitter/follow/@surajphunde49543?logo=twitter&style=for-the-badge" alt="@surajphunde49543" /></a> </p>
 
